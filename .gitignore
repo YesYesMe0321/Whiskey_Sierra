@@ -864,6 +864,10 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# add
+reference.md
+sierraWeb/config.py
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
